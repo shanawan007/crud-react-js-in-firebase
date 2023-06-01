@@ -1,0 +1,48 @@
+/* .black{
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("E:/React Development/schoolsystem/src/assets/background.jpg");
+    height : 600px;
+    width: 800px;
+}
+.mainDiv{
+    padding: 100px 0px;
+    display: flex;
+    float: left;
+}
+.content{
+    color: black;
+    padding: 80px 40px;
+    width: 700px;
+    align-content: center;
+} */
+/* .home{
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("E:/React Development/schoolsystem/src/assets/background.jpg");
+    /* height : 673px;
+    width: 1536px;
+    height: 89.4vh;
+    width: 100%;
+} */
+.text{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+}
+.heading{
+    color:  rgb(211, 211, 250);
+    margin: 88px;
+}
+.paragraph{
+    color:  rgb(211, 211, 250);
+}
+.bad{
+    display: flex;
+    margin-top: 200px;
+    margin-left: 200px;
+}
+.g{
+    margin: 0px 40px;
+    box-shadow: 0 4px 8px 0 rgba(209, 34, 34, 0.2), 0 6px 20px 0 rgba(236, 207, 207, 19);
+    width: 18rem;
+    height: 250px;
+}
